@@ -3,6 +3,9 @@
 通过对 radiomaster zorro 的 elrs 2.4G固件 + backpack固件的修改，通过espnow，可以通过esp32 或者 esp8266，当作接收器。
 无需其他硬件。比较早期版本，广播模式暂不支持多个配对。
 
+![图片](https://github.com/icesun963/elrs_to_espnow/blob/main/%E6%88%AA%E5%B1%8F2022-04-13%20%E4%B8%8B%E5%8D%8812.08.04.png?raw=true)
+
+
 # 当前支持
 
 1.采用crsf协议，支持遥感数据回传。
